@@ -68,8 +68,7 @@ main (){
 	}
 	system("pause");
 		
-}
-	
+}	
 	
 	
 	
